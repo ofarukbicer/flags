@@ -1,0 +1,22 @@
+{
+    "name": "omerfarukbicer0446/flags",
+    "description": "Tüm dünyaya ait svg bayraklar",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "http://github.com/omerfarukbicer0446/flags",
+    "keywords": ["bayrak","dünya"],
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Ömer Faruk Biçer",
+            "email": "omerfarukbicer0446@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Flags\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
